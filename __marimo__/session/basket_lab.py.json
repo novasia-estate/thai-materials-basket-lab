@@ -1,0 +1,152 @@
+{
+  "version": "1",
+  "metadata": {
+    "marimo_version": "0.25.2",
+    "script_metadata_hash": "6c69b44dda1cb54230ee9d3e194d9055"
+  },
+  "cells": [
+    {
+      "id": "Hbol",
+      "code_hash": "51a7dda97a2bb9e02923542d04cbb710",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "MJUe",
+      "code_hash": "8de395c535e9be8dfb1b019a3264c7fe",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "vblA",
+      "code_hash": "596130917fae30da7fc6a08811265981",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/markdown": "<span class=\"markdown prose dark:prose-invert contents\"><h1 id=\"when-the-materials-index-and-the-basket-diverge\">When the materials index and the basket diverge</h1>\n<span class=\"paragraph\"><strong>Thailand \u00b7 Construction Materials Price Index \u00b7 October 2026 release</strong></span>\n<span class=\"paragraph\">Pick a comparison period and three hypothetical procurement mixes. Then vary the\nexposure to concrete and building services without changing the scale of the basket.\nThe output shows the contribution of each category in percentage points.</span>\n<span class=\"paragraph\">Research notebook by <a href=\"https://novasia.estate/\" rel=\"noopener noreferrer\" target=\"_blank\">NovAsia Estate</a>.</span></span>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "bkHC",
+      "code_hash": "25af8a6ade0ea6f38856c6e065c5733e",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/html": "<div style='display: flex;flex: 1;flex-direction: column;justify-content: flex-start;align-items: normal;flex-wrap: nowrap;gap: 0.5rem'><div style='display: flex;flex: 1;flex-direction: row;justify-content: space-between;align-items: normal;flex-wrap: wrap;gap: 0.5rem'><marimo-ui-element object-id='bkHC-0' random-id='e1732d5c-00a7-a5fc-9f33-1a501cc87985'><marimo-dropdown data-initial-value='[&quot;October 2026 vs October 2025&quot;]' data-label='&quot;&#92;u003cspan class=&#92;&quot;markdown prose dark:prose-invert contents&#92;&quot;&#92;u003e&#92;u003cspan class=&#92;&quot;paragraph&#92;&quot;&#92;u003eComparison period&#92;u003c/span&#92;u003e&#92;u003c/span&#92;u003e&quot;' data-options='[&quot;October 2026 vs October 2025&quot;,&quot;September 2026 vs September 2025&quot;,&quot;Jan\u2013Oct 2026 vs Jan\u2013Oct 2025 averages&quot;]' data-allow-select-none='false' data-searchable='false' data-full-width='false' data-disabled='false'></marimo-dropdown></marimo-ui-element><marimo-ui-element object-id='bkHC-1' random-id='c70b699a-204c-a942-c63d-beda2b8cec4b'><marimo-dropdown data-initial-value='[&quot;Concrete-led shell&quot;]' data-label='&quot;&#92;u003cspan class=&#92;&quot;markdown prose dark:prose-invert contents&#92;&quot;&#92;u003e&#92;u003cspan class=&#92;&quot;paragraph&#92;&quot;&#92;u003eBasket to inspect&#92;u003c/span&#92;u003e&#92;u003c/span&#92;u003e&quot;' data-options='[&quot;Concrete-led shell&quot;,&quot;Fit-out package&quot;,&quot;Services-heavy package&quot;]' data-allow-select-none='false' data-searchable='false' data-full-width='false' data-disabled='false'></marimo-dropdown></marimo-ui-element></div><div style='display: flex;flex: 1;flex-direction: row;justify-content: space-between;align-items: normal;flex-wrap: wrap;gap: 0.5rem'><marimo-ui-element object-id='bkHC-2' random-id='0a89ac17-b0fb-8c84-1413-a6a40c7a47e2'><marimo-slider data-initial-value='42' data-label='&quot;&#92;u003cspan class=&#92;&quot;markdown prose dark:prose-invert contents&#92;&quot;&#92;u003e&#92;u003cspan class=&#92;&quot;paragraph&#92;&quot;&#92;u003eCustom concrete weight units&#92;u003c/span&#92;u003e&#92;u003c/span&#92;u003e&quot;' data-start='0' data-stop='80' data-step='1' data-steps='[]' data-debounce='false' data-disabled='false' data-orientation='&quot;horizontal&quot;' data-show-value='true' data-include-input='false' data-full-width='false'></marimo-slider></marimo-ui-element><marimo-ui-element object-id='bkHC-3' random-id='beefca2a-beb7-451c-7781-42e5ce5a5d4d'><marimo-slider data-initial-value='5' data-label='&quot;&#92;u003cspan class=&#92;&quot;markdown prose dark:prose-invert contents&#92;&quot;&#92;u003e&#92;u003cspan class=&#92;&quot;paragraph&#92;&quot;&#92;u003eCustom electrical/plumbing units&#92;u003c/span&#92;u003e&#92;u003c/span&#92;u003e&quot;' data-start='0' data-stop='80' data-step='1' data-steps='[]' data-debounce='false' data-disabled='false' data-orientation='&quot;horizontal&quot;' data-show-value='true' data-include-input='false' data-full-width='false'></marimo-slider></marimo-ui-element></div></div>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "lEQa",
+      "code_hash": "7080f44a28541155d19a756d6eb1f58f",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "PKri",
+      "code_hash": "02e29ed918c82318651783305230f1d7",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "Xref",
+      "code_hash": "f958f21b7e3c0507bab214817681cb2e",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/markdown": "<span class=\"markdown prose dark:prose-invert contents\"><h2 id=\"compare-four-mixes\">Compare four mixes</h2>\n<table>\n<thead>\n<tr>\n<th style=\"text-align: left;\">Scenario</th>\n<th style=\"text-align: right;\">Modelled change</th>\n<th style=\"text-align: right;\">Difference from published CMI</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"text-align: left;\">Published national CMI</td>\n<td style=\"text-align: right;\">+7.4%</td>\n<td style=\"text-align: right;\">Reference</td>\n</tr>\n<tr>\n<td style=\"text-align: left;\">Concrete-led shell</td>\n<td style=\"text-align: right;\">+5.81%</td>\n<td style=\"text-align: right;\">-1.59 pp</td>\n</tr>\n<tr>\n<td style=\"text-align: left;\">Fit-out package</td>\n<td style=\"text-align: right;\">+8.26%</td>\n<td style=\"text-align: right;\">+0.86 pp</td>\n</tr>\n<tr>\n<td style=\"text-align: left;\">Services-heavy package</td>\n<td style=\"text-align: right;\">+10.37%</td>\n<td style=\"text-align: right;\">+2.96 pp</td>\n</tr>\n<tr>\n<td style=\"text-align: left;\">Custom mix</td>\n<td style=\"text-align: right;\">+5.81%</td>\n<td style=\"text-align: right;\">-1.59 pp</td>\n</tr>\n</tbody>\n</table></span>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "SFPL",
+      "code_hash": "4ec48d1003ece12b37647043e957218a",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/html": "<div style='display: flex;flex: 1;flex-direction: column;justify-content: flex-start;align-items: normal;flex-wrap: nowrap;gap: 0.5rem'><span class=\"markdown prose dark:prose-invert contents\"><h2 id=\"where-the-difference-comes-from\">Where the difference comes from</h2></span><marimo-ui-element object-id='SFPL-0' random-id='40b76450-ae3d-7b88-58bb-3524f1a35b5f'><marimo-table data-initial-value='[]' data-label='null' data-data='&quot;[{&#92;&quot;Category&#92;&quot;:&#92;&quot;Wood products&#92;&quot;,&#92;&quot;Published change (%)&#92;&quot;:4.4,&#92;&quot;Preset share (%)&#92;&quot;:3.0,&#92;&quot;Preset contribution (pp)&#92;&quot;:0.13,&#92;&quot;Custom share (%)&#92;&quot;:3.0,&#92;&quot;Custom contribution (pp)&#92;&quot;:0.13},{&#92;&quot;Category&#92;&quot;:&#92;&quot;Cement&#92;&quot;,&#92;&quot;Published change (%)&#92;&quot;:-0.5,&#92;&quot;Preset share (%)&#92;&quot;:15.0,&#92;&quot;Preset contribution (pp)&#92;&quot;:-0.07,&#92;&quot;Custom share (%)&#92;&quot;:15.0,&#92;&quot;Custom contribution (pp)&#92;&quot;:-0.07},{&#92;&quot;Category&#92;&quot;:&#92;&quot;Concrete products&#92;&quot;,&#92;&quot;Published change (%)&#92;&quot;:9.5,&#92;&quot;Preset share (%)&#92;&quot;:42.0,&#92;&quot;Preset contribution (pp)&#92;&quot;:3.99,&#92;&quot;Custom share (%)&#92;&quot;:42.0,&#92;&quot;Custom contribution (pp)&#92;&quot;:3.99},{&#92;&quot;Category&#92;&quot;:&#92;&quot;Steel products&#92;&quot;,&#92;&quot;Published change (%)&#92;&quot;:-0.1,&#92;&quot;Preset share (%)&#92;&quot;:29.0,&#92;&quot;Preset contribution (pp)&#92;&quot;:-0.03,&#92;&quot;Custom share (%)&#92;&quot;:29.0,&#92;&quot;Custom contribution (pp)&#92;&quot;:-0.03},{&#92;&quot;Category&#92;&quot;:&#92;&quot;Tiles&#92;&quot;,&#92;&quot;Published change (%)&#92;&quot;:6.2,&#92;&quot;Preset share (%)&#92;&quot;:0.0,&#92;&quot;Preset contribution (pp)&#92;&quot;:0.0,&#92;&quot;Custom share (%)&#92;&quot;:0.0,&#92;&quot;Custom contribution (pp)&#92;&quot;:0.0},{&#92;&quot;Category&#92;&quot;:&#92;&quot;Surface finishes&#92;&quot;,&#92;&quot;Published change (%)&#92;&quot;:3.5,&#92;&quot;Preset share (%)&#92;&quot;:1.0,&#92;&quot;Preset contribution (pp)&#92;&quot;:0.04,&#92;&quot;Custom share (%)&#92;&quot;:1.0,&#92;&quot;Custom contribution (pp)&#92;&quot;:0.04},{&#92;&quot;Category&#92;&quot;:&#92;&quot;Sanitary ware&#92;&quot;,&#92;&quot;Published change (%)&#92;&quot;:5.9,&#92;&quot;Preset share (%)&#92;&quot;:0.0,&#92;&quot;Preset contribution (pp)&#92;&quot;:0.0,&#92;&quot;Custom share (%)&#92;&quot;:0.0,&#92;&quot;Custom contribution (pp)&#92;&quot;:0.0},{&#92;&quot;Category&#92;&quot;:&#92;&quot;Electrical and plumbing&#92;&quot;,&#92;&quot;Published change (%)&#92;&quot;:13.4,&#92;&quot;Preset share (%)&#92;&quot;:5.0,&#92;&quot;Preset contribution (pp)&#92;&quot;:0.67,&#92;&quot;Custom share (%)&#92;&quot;:5.0,&#92;&quot;Custom contribution (pp)&#92;&quot;:0.67},{&#92;&quot;Category&#92;&quot;:&#92;&quot;Other materials&#92;&quot;,&#92;&quot;Published change (%)&#92;&quot;:21.8,&#92;&quot;Preset share (%)&#92;&quot;:5.0,&#92;&quot;Preset contribution (pp)&#92;&quot;:1.09,&#92;&quot;Custom share (%)&#92;&quot;:5.0,&#92;&quot;Custom contribution (pp)&#92;&quot;:1.09}]&quot;' data-total-rows='9' data-total-columns='6' data-max-columns='50' data-banner-text='&quot;&quot;' data-pagination='false' data-page-size='9' data-show-filters='false' data-show-download='true' data-show-search='true' data-show-column-summaries='false' data-show-data-types='true' data-show-page-size-selector='true' data-show-column-explorer='true' data-show-chart-builder='true' data-row-headers='[]' data-hidden-columns='[]' data-has-stable-row-id='false' data-lazy='false' data-preload='false'></marimo-table></marimo-ui-element></div>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "BYtC",
+      "code_hash": "1dc86623919e5c1d62ade830386f8ebc",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/html": "<marimo-ui-element object-id='BYtC-0' random-id='d3d4d03d-e232-332c-6573-9c8d9ec1e6ce'><marimo-download data-initial-value='null' data-label='&quot;&#92;u003cspan class=&#92;&quot;markdown prose dark:prose-invert contents&#92;&quot;&#92;u003e&#92;u003cspan class=&#92;&quot;paragraph&#92;&quot;&#92;u003eDownload contributions as CSV&#92;u003c/span&#92;u003e&#92;u003c/span&#92;u003e&quot;' data-data='&quot;data:application/vnd.ms-excel;base64,Q2F0ZWdvcnksUHVibGlzaGVkIGNoYW5nZSAoJSksUHJlc2V0IHNoYXJlICglKSxQcmVzZXQgY29udHJpYnV0aW9uIChwcCksQ3VzdG9tIHNoYXJlICglKSxDdXN0b20gY29udHJpYnV0aW9uIChwcCkNCldvb2QgcHJvZHVjdHMsNC40LDMuMCwwLjEzLDMuMCwwLjEzDQpDZW1lbnQsLTAuNSwxNS4wLC0wLjA3LDE1LjAsLTAuMDcNCkNvbmNyZXRlIHByb2R1Y3RzLDkuNSw0Mi4wLDMuOTksNDIuMCwzLjk5DQpTdGVlbCBwcm9kdWN0cywtMC4xLDI5LjAsLTAuMDMsMjkuMCwtMC4wMw0KVGlsZXMsNi4yLDAuMCwwLjAsMC4wLDAuMA0KU3VyZmFjZSBmaW5pc2hlcywzLjUsMS4wLDAuMDQsMS4wLDAuMDQNClNhbml0YXJ5IHdhcmUsNS45LDAuMCwwLjAsMC4wLDAuMA0KRWxlY3RyaWNhbCBhbmQgcGx1bWJpbmcsMTMuNCw1LjAsMC42Nyw1LjAsMC42Nw0KT3RoZXIgbWF0ZXJpYWxzLDIxLjgsNS4wLDEuMDksNS4wLDEuMDkNCg==&quot;' data-filename='&quot;material-basket-contributions.csv&quot;' data-disabled='false' data-lazy='false'></marimo-download></marimo-ui-element>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "RGSE",
+      "code_hash": "ec222e5f72d31b90819f6d05fd212a35",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/html": "<marimo-accordion data-labels='[&quot;&#92;u003cspan class=&#92;&quot;markdown prose dark:prose-invert contents&#92;&quot;&#92;u003e&#92;u003cspan class=&#92;&quot;paragraph&#92;&quot;&#92;u003eOfficial input values&#92;u003c/span&#92;u003e&#92;u003c/span&#92;u003e&quot;]' data-multiple='false' data-expanded='[]'><div><marimo-ui-element object-id='RGSE-0' random-id='9ccfd9c1-43a6-6561-6aef-300ce47f98dc'><marimo-table data-initial-value='[]' data-label='null' data-data='&quot;[{&#92;&quot;Material&#92;&quot;:&#92;&quot;Wood products&#92;&quot;,&#92;&quot;Official weight (%)&#92;&quot;:3.03,&#92;&quot;Oct 2026 index&#92;&quot;:123.2,&#92;&quot;Oct 2025 index&#92;&quot;:118.0,&#92;&quot;Oct YoY (%)&#92;&quot;:4.4,&#92;&quot;Sep YoY (%)&#92;&quot;:4.3,&#92;&quot;Jan\u2013Oct average change (%)&#92;&quot;:2.6},{&#92;&quot;Material&#92;&quot;:&#92;&quot;Cement&#92;&quot;,&#92;&quot;Official weight (%)&#92;&quot;:12.12,&#92;&quot;Oct 2026 index&#92;&quot;:113.9,&#92;&quot;Oct 2025 index&#92;&quot;:114.5,&#92;&quot;Oct YoY (%)&#92;&quot;:-0.5,&#92;&quot;Sep YoY (%)&#92;&quot;:0.3,&#92;&quot;Jan\u2013Oct average change (%)&#92;&quot;:2.1},{&#92;&quot;Material&#92;&quot;:&#92;&quot;Concrete products&#92;&quot;,&#92;&quot;Official weight (%)&#92;&quot;:17.86,&#92;&quot;Oct 2026 index&#92;&quot;:119.6,&#92;&quot;Oct 2025 index&#92;&quot;:109.2,&#92;&quot;Oct YoY (%)&#92;&quot;:9.5,&#92;&quot;Sep YoY (%)&#92;&quot;:9.2,&#92;&quot;Jan\u2013Oct average change (%)&#92;&quot;:6.8},{&#92;&quot;Material&#92;&quot;:&#92;&quot;Steel products&#92;&quot;,&#92;&quot;Official weight (%)&#92;&quot;:23.24,&#92;&quot;Oct 2026 index&#92;&quot;:99.2,&#92;&quot;Oct 2025 index&#92;&quot;:99.3,&#92;&quot;Oct YoY (%)&#92;&quot;:-0.1,&#92;&quot;Sep YoY (%)&#92;&quot;:-0.8,&#92;&quot;Jan\u2013Oct average change (%)&#92;&quot;:1.0},{&#92;&quot;Material&#92;&quot;:&#92;&quot;Tiles&#92;&quot;,&#92;&quot;Official weight (%)&#92;&quot;:6.32,&#92;&quot;Oct 2026 index&#92;&quot;:109.5,&#92;&quot;Oct 2025 index&#92;&quot;:103.1,&#92;&quot;Oct YoY (%)&#92;&quot;:6.2,&#92;&quot;Sep YoY (%)&#92;&quot;:4.0,&#92;&quot;Jan\u2013Oct average change (%)&#92;&quot;:2.4},{&#92;&quot;Material&#92;&quot;:&#92;&quot;Surface finishes&#92;&quot;,&#92;&quot;Official weight (%)&#92;&quot;:2.71,&#92;&quot;Oct 2026 index&#92;&quot;:109.9,&#92;&quot;Oct 2025 index&#92;&quot;:106.2,&#92;&quot;Oct YoY (%)&#92;&quot;:3.5,&#92;&quot;Sep YoY (%)&#92;&quot;:2.2,&#92;&quot;Jan\u2013Oct average change (%)&#92;&quot;:0.9},{&#92;&quot;Material&#92;&quot;:&#92;&quot;Sanitary ware&#92;&quot;,&#92;&quot;Official weight (%)&#92;&quot;:3.1,&#92;&quot;Oct 2026 index&#92;&quot;:99.0,&#92;&quot;Oct 2025 index&#92;&quot;:93.5,&#92;&quot;Oct YoY (%)&#92;&quot;:5.9,&#92;&quot;Sep YoY (%)&#92;&quot;:4.8,&#92;&quot;Jan\u2013Oct average change (%)&#92;&quot;:1.0},{&#92;&quot;Material&#92;&quot;:&#92;&quot;Electrical and plumbing&#92;&quot;,&#92;&quot;Official weight (%)&#92;&quot;:15.44,&#92;&quot;Oct 2026 index&#92;&quot;:124.1,&#92;&quot;Oct 2025 index&#92;&quot;:109.4,&#92;&quot;Oct YoY (%)&#92;&quot;:13.4,&#92;&quot;Sep YoY (%)&#92;&quot;:13.3,&#92;&quot;Jan\u2013Oct average change (%)&#92;&quot;:9.1},{&#92;&quot;Material&#92;&quot;:&#92;&quot;Other materials&#92;&quot;,&#92;&quot;Official weight (%)&#92;&quot;:16.17,&#92;&quot;Oct 2026 index&#92;&quot;:132.2,&#92;&quot;Oct 2025 index&#92;&quot;:108.5,&#92;&quot;Oct YoY (%)&#92;&quot;:21.8,&#92;&quot;Sep YoY (%)&#92;&quot;:19.8,&#92;&quot;Jan\u2013Oct average change (%)&#92;&quot;:11.2}]&quot;' data-total-rows='9' data-total-columns='7' data-max-columns='50' data-banner-text='&quot;&quot;' data-pagination='false' data-page-size='9' data-show-filters='false' data-show-download='true' data-show-search='true' data-show-column-summaries='false' data-show-data-types='true' data-show-page-size-selector='true' data-show-column-explorer='true' data-show-chart-builder='true' data-row-headers='[]' data-hidden-columns='[]' data-has-stable-row-id='false' data-lazy='false' data-preload='false'></marimo-table></marimo-ui-element></div></marimo-accordion>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "Kclp",
+      "code_hash": "a0ff35ec7744ca88f7b8e3616a65fecc",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/markdown": "<span class=\"markdown prose dark:prose-invert contents\"><h2 id=\"calculation-and-interpretation\">Calculation and interpretation</h2>\n<span class=\"paragraph\">Each row contributes its normalised base-period cost share times the published\npercentage change for its material category. Summing signed contributions gives\nthe change of the modelled materials basket. Setting two category weights to zero\ndistributes the remaining share across the other categories.</span>\n<span class=\"paragraph\">The official index is shown as a separately published reference. It covers materials\ntraded in 20 provinces; the scenario weights are illustrative. Use quantities,\nsupplier quotes, labour, tax, lead times and a defined contract price date for an\nactual cost estimate. The year-to-date comparison uses the publisher's two period\naverages. It is a separate lens from the October and September point comparisons.</span>\n<span class=\"paragraph\"><a href=\"https://uploads.tpso.go.th/editor/pdf/1793934481_51742b5d42193db36f37.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">TPSO October 2026 release and statistical table</a> \u00b7\n<a href=\"https://index.tpso.go.th/materials-price-index\" rel=\"noopener noreferrer\" target=\"_blank\">CMI data portal</a></span></span>"
+          }
+        }
+      ],
+      "console": []
+    }
+  ]
+}
